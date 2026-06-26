@@ -1,5 +1,5 @@
 from tkinter import*
-from  ChessProject import*
+from  chess_project import*
 import copy
 game1 = GameRule()
 TOP = "1.0"
